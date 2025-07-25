@@ -1,4 +1,4 @@
-\# 🔗 Exercício 5 - Mesclando Bases: Funcionários + Cargos
+\#  Exercício 5 - Mesclando Bases: Funcionários + Cargos
 
 
 
